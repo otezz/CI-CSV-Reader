@@ -39,3 +39,8 @@ View:
                     </tr>
                 <?php }?>
     </table>
+
+### Accepted CSV Format: ###
+    firstName;lastName;gender
+    John;Doe;Male
+    Jane;Doe;Female
